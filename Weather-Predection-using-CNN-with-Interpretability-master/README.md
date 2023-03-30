@@ -22,3 +22,4 @@ This Notebook covers the entire process of training CNN from scratch using Keras
 [Model](https://github.com/amitchavda17/Weather-Predection-using-CNN-with-Interpretability/tree/master/models)
 This folder contains the CNN  model and weight .h5 files
 I have used Google Colab to for training to increase the speed 
+For more detailed information visit https://medium.com/@alladichaitanya08/wether-predection-using-cnn-and-image-processing-ca1ca5a16a6d
